@@ -1,4 +1,4 @@
-package Axon_soft.exercises;
+
 
 import java.util.Date;
 
@@ -68,3 +68,4 @@ public class Applicants {
                 '}';
     }
 }
+
