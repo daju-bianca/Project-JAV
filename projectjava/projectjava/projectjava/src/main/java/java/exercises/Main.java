@@ -1,4 +1,3 @@
-package Axon_soft.exercises;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
